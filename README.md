@@ -1,2 +1,2 @@
 # projet-info-ba2
-jeux vidéo coder en c++ à deux
+jeux vidéo codé en c++ à deux
